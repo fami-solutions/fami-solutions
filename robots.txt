@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://fami-solutions.github.io/fami-solutions/sitemap.xml
